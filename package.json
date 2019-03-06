@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:daejong123/jsRandom.git"
+    "url": "git@github.com:daejong123/jstool.git"
   },
   "dependencies": {
     "lodash": "^4.17.11"
