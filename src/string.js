@@ -1,7 +1,7 @@
-function stringTrimLength(str) {
-    return str.replace(" ", "").length;
+function reverse(str) {
+    return str.split("").reverse().join("");
 }
 
 module.exports = {
-    stringTrimLength
+    reverse
 }
