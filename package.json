@@ -1,5 +1,5 @@
 {
-  "name": "jsRandom",
+  "name": "js-random",
   "version": "1.0.0",
   "description": "a demo",
   "main": "index.js",
@@ -9,6 +9,10 @@
   "keywords": ["js", "library"],
   "author": "dottie",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:daejong123/jsRandom.git"
+  },
   "dependencies": {
     "lodash": "^4.17.11"
   }
